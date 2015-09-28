@@ -15,6 +15,7 @@
 11. [胡凯][ch11]
 12. [Open经验库][ch12]
 13. [stormzhang][ch13]
+14. [codeKK][ch14]
 
 
 ### English
@@ -46,3 +47,4 @@
 [ch11]: http://hukai.me/
 [ch12]: http://www.open-open.com/lib/list/177
 [ch13]: http://www.stormzhang.com/
+[ch14]: http://codekk.com/open-source-project-analysis
