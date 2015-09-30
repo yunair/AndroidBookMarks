@@ -25,7 +25,7 @@
 3. [Android Weekly][en3]
 4. [Android Developers Blog][en4]
 5. [Android Hive][en5]
-
+6. [Google Developer Experts][en6]
 
 
 [en1]: http://jakewharton.com/blog
@@ -33,6 +33,7 @@
 [en3]: http://androidweekly.net/
 [en4]: http://android-developers.blogspot.hk/
 [en5]: http://www.androidhive.info/
+[en6]: https://medium.com/google-developer-experts
 
 [ch1]: http://www.androidweekly.cn/
 [ch2]: http://blog.csdn.net/guolin_blog?viewmode=contents
