@@ -16,6 +16,10 @@
 12. [Open经验库][ch12]
 13. [stormzhang][ch13]
 14. [codeKK][ch14]
+15. [泡在网上的日子][ch15]
+16. [美团点评技术团队][ch16]
+17. [codeKK][ch17]
+18. [Android Cool Posts][ch18]
 
 
 ### English
@@ -48,3 +52,7 @@
 [ch12]: http://www.open-open.com/lib/list/177
 [ch13]: http://www.stormzhang.com/
 [ch14]: http://codekk.com/open-source-project-analysis
+[ch15]: http://www.jcodecraeer.com/
+[ch16]: http://tech.meituan.com/
+[ch17]: http://p.codekk.com/
+[ch18]: https://greenrobot.me
