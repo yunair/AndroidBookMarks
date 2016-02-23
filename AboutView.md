@@ -13,6 +13,7 @@
 ### Custom View
 
 1. [自定义控件以及控件属性的自定义][custom1]
+2. [深入解析Android的自定义布局][custom2]
 
 ### Dialog
 
@@ -51,6 +52,7 @@
 3. [TextView中电话号码、网址自动链接][text3]
 4. [使用代码为textview设置drawableLeft][text4]
 5. [TextView实现文字大小不同和文字颜色不同][text5]
+6. [Custom TextView with different color words][text6]
 
 ### Toast
 
@@ -66,6 +68,7 @@
 [button3]: http://www.apkbus.com/forum.php?mod=viewthread&tid=68179
 
 [custom1]: http://blog.csdn.net/nanlus/article/details/8219868
+[custom2]: https://greenrobot.me/devpost/android-custom-layout/
 
 [dialog1]: http://www.codeceo.com/article/7-android-dialog.html
 
@@ -89,5 +92,6 @@
 [text3]: http://blog.sina.com.cn/s/blog_5da93c8f0100ul4a.html
 [text4]: http://blog.csdn.net/csdn_ask/article/details/8640994
 [text5]: http://blog.csdn.net/h3c4lenovo/article/details/32930821
+[text6]: http://stackoverflow.com/questions/11479560/custom-textview-in-android-with-different-color-words
 
 [toast1]: http://android.tgbus.com/Android/tutorial/201103/346236.shtml

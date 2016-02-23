@@ -17,6 +17,7 @@
 13. [stormzhang][ch13]
 14. [codeKK][ch14]
 15. [Gracker][ch15]
+16. [深入剖析Android系统][ch16]
 
 
 ### English
@@ -51,3 +52,4 @@
 [ch13]: http://www.stormzhang.com/
 [ch14]: http://codekk.com/open-source-project-analysis
 [ch15]: http://androidperformance.com/
+[ch16]: http://blog.csdn.net/yangwen123
