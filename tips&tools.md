@@ -6,6 +6,8 @@
 - [Android开发在路上：少去踩坑，多走捷径][tips2]
 - [Lazy Android Developers - Be Productive][tips3]
 - [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口][tips4]
+- [阅读Android源码的一些姿势][tips5]
+- [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central][tips6]
  
 
 
@@ -27,6 +29,8 @@
 [tips2]: http://djt.qq.com/article/view/1193
 [tips3]: https://speakerdeck.com/pareshmayani/lazy-android-developers-be-productive
 [tips4]: https://www.zhihu.com/question/33636939
+[tips5]: http://zhuanlan.zhihu.com/kaede/20564614
+[tips6]: http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html
 
 
 [tools1]: http://www.androiddevtools.cn/

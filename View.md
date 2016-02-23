@@ -1,14 +1,15 @@
+
+### [AWESOME UI][https://github.com/wasabeef/awesome-android-ui]
+
 ### ActionBar
 
 1. [ActionBar][actionbar1]
-
 
 ### Button
 
 1. [Android 自定义RadioButton的样式][button1]
 2. [滑动开关控件][button2]
 3. [高仿QQ设置滑动按钮][button3]
-
 
 ### Custom View
 
@@ -18,6 +19,11 @@
 ### Dialog
 
 1. [Dialog的7种形式实现方式][dialog1]
+
+### ImageView
+
+1. [双指缩放图片和单指拖拽的ImageView][image1]
+
 
 ### Layout
 
@@ -35,7 +41,6 @@
 7. [ListView 每项间距][listview7]
  
 
-
 ### SlidingMenu
 
 1. [滑动菜单栏(开源项目SlidingMenu的示例)][sliding1]
@@ -43,7 +48,6 @@
 ### Shape
 
 1. [shape的使用][shape1]
-
 
 ### TextView
 
@@ -60,9 +64,7 @@
 
 
 
-
 [actionbar1]: http://blog.csdn.net/liu149339750/article/details/8282471
-
 [button1]: http://blog.sina.com.cn/s/blog_777c69930100z6j7.html
 [button2]: http://baiy-mail2012.iteye.com/blog/1671641
 [button3]: http://www.apkbus.com/forum.php?mod=viewthread&tid=68179
@@ -71,10 +73,9 @@
 [custom2]: https://greenrobot.me/devpost/android-custom-layout/
 
 [dialog1]: http://www.codeceo.com/article/7-android-dialog.html
-
+[image1]: http://blog.csdn.net/liu_zhen_wei/article/details/7652908
 [layout1]: http://blog.csdn.net/hlily2005/article/details/6005969
 [layout2]: http://www.eoeandroid.com/thread-62942-1-1.html
-
 [listview1]: http://stackoverflow.com/questions/17087241/adding-viewpager-as-a-header-to-a-listview
 [listview2]: http://www.cnblogs.com/chenguanwei/archive/2011/12/09/2282421.html
 [listview3]: http://blog.sina.com.cn/s/blog_5da93c8f0100wx4v.html

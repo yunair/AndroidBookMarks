@@ -18,6 +18,10 @@
 14. [codeKK][ch14]
 15. [Gracker][ch15]
 16. [深入剖析Android系统][ch16]
+17. [泡在网上的日子][ch17]
+16. [美团点评技术团队][ch18]
+18. [Android Cool Posts][ch19]
+
 
 
 ### English
@@ -50,6 +54,9 @@
 [ch11]: http://hukai.me/
 [ch12]: http://www.open-open.com/lib/list/177
 [ch13]: http://www.stormzhang.com/
-[ch14]: http://codekk.com/open-source-project-analysis
+[ch14]: http://p.codekk.com/
 [ch15]: http://androidperformance.com/
 [ch16]: http://blog.csdn.net/yangwen123
+[ch17]: http://www.jcodecraeer.com/
+[ch18]: http://tech.meituan.com/
+[ch19]: https://greenrobot.me
