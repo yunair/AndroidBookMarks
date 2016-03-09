@@ -49,6 +49,10 @@
 
 1. [shape的使用][shape1]
 
+### Span
+1. [Spans，一个强大的概念][span1]
+
+
 ### TextView
 
 1. [为TextView添加边框][text1]
@@ -87,6 +91,8 @@
 [sliding1]: http://blog.csdn.net/acrambler/article/details/13775179
 
 [shape1]: http://www.cnblogs.com/cyanfei/archive/2012/07/27/2612023.html
+
+[span1]: http://rocko.xyz/2015/03/04/%E3%80%90%E8%AF%91%E3%80%91Spans%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%A6%82%E5%BF%B5/
 
 [text1]: http://blog.csdn.net/jwzhangjie/article/details/9404823
 [text2]: http://blog.sina.com.cn/s/blog_5da93c8f0100ul3z.html
