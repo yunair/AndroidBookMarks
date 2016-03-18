@@ -6,7 +6,8 @@
 - [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口][tips4]
 - [阅读Android源码的一些姿势][tips5]
 - [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central][tips6]
- 
+- [awesome-android-tips][tips7]
+
 
 
 [tips1]: http://android.jobbole.com/80645/
@@ -15,5 +16,4 @@
 [tips4]: https://www.zhihu.com/question/33636939
 [tips5]: http://zhuanlan.zhihu.com/kaede/20564614
 [tips6]: http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html
-
-
+[tips7]: https://github.com/jiang111/awesome-android-tips

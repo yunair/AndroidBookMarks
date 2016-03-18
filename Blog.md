@@ -19,8 +19,10 @@
 15. [Gracker][ch15]
 16. [深入剖析Android系统][ch16]
 17. [泡在网上的日子][ch17]
-16. [美团点评技术团队][ch18]
-18. [Android Cool Posts][ch19]
+18. [美团点评技术团队][ch18]
+19. [Android Cool Posts][ch19]
+20. [Android Blog 周刊][ch20]
+21. [開源安卓][21]
 
 
 
@@ -33,14 +35,12 @@
 5. [Android Hive][en5]
 6. [Google Developer Experts][en6]
 
-
 [en1]: http://jakewharton.com/blog
-[en2]: https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/android-developers
+[en2]: https://groups.google.com/forum/?utm_source=digest&amp;utm_medium=email#!forum/android-developers
 [en3]: http://androidweekly.net/
 [en4]: http://android-developers.blogspot.hk/
 [en5]: http://www.androidhive.info/
 [en6]: https://medium.com/google-developer-experts
-
 [ch1]: http://www.androidweekly.cn/
 [ch2]: http://blog.csdn.net/guolin_blog?viewmode=contents
 [ch3]: http://blog.csdn.net/lmj623565791
@@ -60,3 +60,5 @@
 [ch17]: http://www.jcodecraeer.com/
 [ch18]: http://tech.meituan.com/
 [ch19]: https://greenrobot.me
+[ch20]: http://www.androidblog.cn/
+[ch21]: https://yongjhih.gitbooks.io/feed/content/
