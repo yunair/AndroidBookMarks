@@ -7,6 +7,7 @@
 - [阅读Android源码的一些姿势][tips5]
 - [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central][tips6]
 - [awesome-android-tips][tips7]
+- [我们为什么要用fitsSystemWindows][tips8]
 
 
 
@@ -17,3 +18,4 @@
 [tips5]: http://zhuanlan.zhihu.com/kaede/20564614
 [tips6]: http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html
 [tips7]: https://github.com/jiang111/awesome-android-tips
+[tips8​]: https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-35/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%A6%81%E7%94%A8fitsSystemWindows.md
