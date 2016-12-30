@@ -39,7 +39,7 @@
 5. [在ContextMenu中添加/删除ListView的Item][listview5]
 6. [Section ListView][listview6]
 7. [ListView 每项间距][listview7]
- 
+
 
 ### SlidingMenu
 
@@ -71,7 +71,7 @@
 [actionbar1]: http://blog.csdn.net/liu149339750/article/details/8282471
 [button1]: http://blog.sina.com.cn/s/blog_777c69930100z6j7.html
 [button2]: http://baiy-mail2012.iteye.com/blog/1671641
-[button3]: http://www.apkbus.com/forum.php?mod=viewthread&tid=68179
+[button3]: http://www.apkbus.com/forum.php?mod=viewthread&amp;tid=68179
 
 [custom1]: http://blog.csdn.net/nanlus/article/details/8219868
 [custom2]: https://greenrobot.me/devpost/android-custom-layout/
